@@ -1,0 +1,2 @@
+# Robocode_Anti_Gravity_Move
+Robocodeで戦わせた我が愛しの戦車くんのコード。無残にも破壊された。戦争は虚しい。
